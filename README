@@ -1,0 +1,7 @@
+To run the program threads_sync.c simply type "make" then type "./threads_sync x" where x is a positive integer.
+
+To make the threads_sync.c run with synchronization, simply uncomment the #define PTHREAD_SYNC 1 header at the top of the file. (It's commented out by default, so the program runs without synchronization by default).
+
+
+
+
